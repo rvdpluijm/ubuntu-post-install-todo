@@ -28,4 +28,6 @@ My task list after intalling Ubuntu 14.04
 * [ ] [git-cola](https://github.com/git-cola/git-cola#run-from-source)
 * [ ] [thefuck](https://github.com/nvbn/thefuck#manual-installation)
 * [ ] [vmware horizon view client] `sudo apt-get install vmware-view-client`
-* 
+* [ ] remove [Ubuntu Unity]: `sudo apt-get remove unity unity-asset-pool unity-control-center unity-control-center-signon unity-gtk-module-common unity-lens* unity-services unity-settings-daemon unity-webapps* unity-voice-service`
+* [ ] install [gnome3]: `sudo apt-get install ubuntu-gnome-desktop` / `sudo service gdm restart`
+
